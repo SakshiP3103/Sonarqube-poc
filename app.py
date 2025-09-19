@@ -36,5 +36,5 @@ if __name__ == "__main__":
         print("Error occurred:", e)
 
     # Hardcoded credentials (Sonar will warn about this)
-    password = "admin32111111111111111111"
+    password = "admin1277777777777777773"
     print("Password is:", password)
